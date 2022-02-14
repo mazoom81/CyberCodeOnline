@@ -24,7 +24,7 @@
  	"npc": {
  	 	"unitExchange": {
  	 	 	"name": {
- 	 	 	 	"trans": "Scambio di Unità di Arasaka",
+ 	 	 	 	"trans": "Scambio di Unità Arasaka",
  	 	 	 	"eng": "Arasaka Unit Exchange"
  	 	 	},
  	 	 	"tut": {
@@ -1697,7 +1697,7 @@
  	 	 	"eng": "Loading Dungeon..."
  	 	},
  	 	"sendInvite": {
- 	 	 	"trans": "Invia invito a chattare",
+ 	 	 	"trans": "Invita in chat",
  	 	 	"eng": "Send Invite To Chat"
  	 	},
  	 	"leaveDungeon": {
@@ -2770,7 +2770,7 @@
  	 	 	 	"eng": "Equip"
  	 	 	},
  	 	 	"unequip": {
- 	 	 	 	"trans": "Inequivoca",
+ 	 	 	 	"trans": "Rimuovi",
  	 	 	 	"eng": "Unequip"
  	 	 	},
  	 	 	"use": {
@@ -4405,7 +4405,7 @@
  	 	},
  	 	"equipmentQuickMenu": {
  	 	 	"unequip": {
- 	 	 	 	"trans": "inequivoca",
+ 	 	 	 	"trans": "Rimuovi",
  	 	 	 	"eng": "unequip"
  	 	 	},
  	 	 	"viewDetails": {
@@ -4413,7 +4413,7 @@
  	 	 	 	"eng": "View Details"
  	 	 	},
  	 	 	"swap": {
- 	 	 	 	"trans": "sostituire le attrezzature",
+ 	 	 	 	"trans": "sostituisci equipaggiamento",
  	 	 	 	"eng": "replace equipment"
  	 	 	}
  	 	},
